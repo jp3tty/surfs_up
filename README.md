@@ -21,15 +21,19 @@ The dataset reveals 9 stations gathering weather information around Oahu and the
 Average yearly precipitation table:
 ![year_prec_table](https://github.com/jp3tty/surfs_up/blob/main/Images/year_prec_table.PNG)
 
-The table show that 
 
 Frequency of measure temperatures for Oahu:
+
 ![year_temp_observed](https://github.com/jp3tty/surfs_up/blob/main/Images/year_temp_observed.PNG)
 
+
 June temperatures:
+
 ![june_temps](https://github.com/jp3tty/surfs_up/blob/main/Images/june_temps.PNG)
 
+
 December temperatures:
+
 ![dec_temps](https://github.com/jp3tty/surfs_up/blob/main/Images/dec_temps.PNG)
 
 
