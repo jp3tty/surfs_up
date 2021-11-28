@@ -9,29 +9,29 @@ Paticular insterest is placed on June and December. By comparing the weather pat
 
 
 ## Results
-Two classes, "measurement" and "station," from the SQLite database provide all the information required to conduct the analysis. Temperature and precipitaction information gathered from the measurement class and location information was assessed through the station class.
+Two classes, "measurement" and "station," from the SQLite database provide all the information required to conduct the analysis. Temperature and precipitaction information gathered from the measurement class, and the location information was assessed through the station class.
 
 ### Precipitation
-The dataset reveals 9 stations gathering weather information around Oahu and the precipitation measurements they gathered are  between Aug. 23, 2016 to Aug. 23, 2017.
+The dataset reveals 9 stations gathering weather information around Oahu. The measurements they gathered are  between Aug. 23, 2016 to Aug. 23, 2017.
 
 ![year_rainfall_plot](https://github.com/jp3tty/surfs_up/blob/main/Images/year_rainfall_plot.PNG)
 
-The plot shows Oahu got over 4" of precipitation on 4 days for the giving period.
+The plot shows Oahu got over 4" of precipitation on 4 days for the given period.
 
-The table below shows the average daily precipitation.
+The table below shows provides statistical analylsis of precipitation for the same period.
 
 ![year_prec_table](https://github.com/jp3tty/surfs_up/blob/main/Images/year_prec_table.PNG)
 
 As seen in the table, the average (mean) daily precipitation was 0.18 inches. From the plot and table, we conclude that Oahu was mostly sunny throughout the day and experienced low rainfall.
 
 ### Temperature
-The yearly average Oahu temperature was found to be 72 degress F with a low of 54 degrees F and high of 85 degrees F.
+Based off of SQLAlchemy queries, Oahu's daily high temperature was found to be 72 degress F, and the low for the year was 54 degrees F and the high for the year was 85 degrees F.
 
 The frequency of temperature measurements from Oahu's most active measurement station can be seen below.
 
 ![year_temp_observed](https://github.com/jp3tty/surfs_up/blob/main/Images/year_temp_observed.PNG)
 
-The negative skew of the indicates that a majority of daily high temperatures on Oahu are higher than the 72 degree F average.
+The plots negative skew indicates that a majority of daily high temperatures on Oahu are higher than the 72 degree F average.
 
 Further analysis of the temperatures recorded in June and Decemeber reveal that their average high temperatures are less then 4 degrees F apart. Given these small temperature swings, we conclude that the temperature on Oahu is consistent through the year.
 
