@@ -3,7 +3,7 @@
 
 ## Overview of Analysis
 
-This analysis reviews the weather conditions around Oahu, Hawaii to determine if a surf and ice cream shop can sustain steady business year-round. The monthly temperatures and precipication from the dataset, sourced from a SQLite database, will help make this determination through SQLAlchemy queries in a Jupyter notebook. Ideally, consistent warm weather and just enough rainfall to keep everything green will provide the optimal conditions for sustaining a surf and ice cream shop.
+This analysis reviews the weather conditions around Oahu, Hawaii to determine if a surf and ice cream shop can sustain steady business year-round. Monthly temperature and precipication information, sourced from a SQLite database, will help make this determination through SQLAlchemy queries in a Jupyter notebook. Ideally, consistent warm weather and just enough rainfall to keep everything green will provide the optimal conditions for sustaining a surf and ice cream shop.
 
 
 ## Results
