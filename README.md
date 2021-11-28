@@ -43,4 +43,4 @@ The three main points from the temperature analysis is:
 * Given that the statistics for these months are similar, it is safe to assume Oahu's temperature is consistently above 70 degrees throughout the year.
 
 ## Summary
-Oahu's weather patterns are relatively the same throughout the year. The change of continuous rainfall are low and the temperature stays above 70 degrees F most of the year. Given this information, starting a surf and ice cream shop on Oahu should create a sustainable business. The June and December data further reinforces this by showing the temperature stays close to 72 degrees F at opposite ends of the year.
+Oahu's weather patterns are relatively the same throughout the year. The chance of continuous rainfall are low and the high temperature, on average, stays above 70 degrees F. Given this information, starting a surf and ice cream shop on Oahu should create a sustainable business. The June and December data further reinforce this by showing temperature values close to 72 degrees F at opposite ends of the year.
