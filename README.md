@@ -33,19 +33,14 @@ The frequency of temperature measurements from Oahu's most active measurement st
 
 The negative skew of the indicates that a majority of daily high temperatures on Oahu are higher than the 72 degree F average.
 
+Further analysis of the temperatures recorded in June and Decemeber reveal that their average high temperatures are less then 4 degrees F apart. Given these small temperature swings, we conclude that the temperature on Oahu is consistent through the year.
+
 ![june_temps](https://github.com/jp3tty/surfs_up/blob/main/Images/june_temps.PNG) ![dec_temps](https://github.com/jp3tty/surfs_up/blob/main/Images/dec_temps.PNG)
 
-
-
-
+The three main points from the temperature analysis is:
 * The average temperatures for June and December are above 70 degrees.
 * Both months have similar standard deviations in their temperatures.
 * Given that the statistics for these months are similar, it is safe to assume Oahu's temperature is consistently above 70 degrees throughout the year.
 
 ## Summary
-
-
-
-
-
-June and December data reinforces the positive business decision.
+Oahu's weather patterns are relatively the same throughout the year. The change of continuous rainfall are low and the temperature stays above 70 degrees F most of the year. Given this information, starting a surf and ice cream shop on Oahu should create a sustainable business. The June and December data further reinforces this by showing the temperature stays close to 72 degrees F at opposite ends of the year.
