@@ -22,7 +22,7 @@ The table below shows the average daily precipitation.
 
 ![year_prec_table](https://github.com/jp3tty/surfs_up/blob/main/Images/year_prec_table.PNG)
 
-As seen in the table, the average (mean) daily precipitation was 0.18 inches. From the plot and table we conclude that Oahu was mostly sunny throughout the day and experienced low rainfall.
+As seen in the table, the average (mean) daily precipitation was 0.18 inches. From the plot and table, we conclude that Oahu was mostly sunny throughout the day and experienced low rainfall.
 
 ### Temperature
 The yearly average Oahu temperature was found to be 72 degress F with a low of 54 degrees F and high of 85 degrees F.
@@ -33,6 +33,10 @@ The frequency of temperature measurements from Oahu's most active measurement st
 
 The negative skew of the indicates that a majority of daily high temperatures on Oahu are higher than the 72 degree F average.
 
+![june_temps](https://github.com/jp3tty/surfs_up/blob/main/Images/june_temps.PNG) ![dec_temps](https://github.com/jp3tty/surfs_up/blob/main/Images/dec_temps.PNG)
+
+
+
 
 * The average temperatures for June and December are above 70 degrees.
 * Both months have similar standard deviations in their temperatures.
@@ -42,15 +46,6 @@ The negative skew of the indicates that a majority of daily high temperatures on
 
 
 
-
-June temperatures:
-
-![june_temps](https://github.com/jp3tty/surfs_up/blob/main/Images/june_temps.PNG)
-
-
-December temperatures:
-
-![dec_temps](https://github.com/jp3tty/surfs_up/blob/main/Images/dec_temps.PNG)
 
 
 June and December data reinforces the positive business decision.
