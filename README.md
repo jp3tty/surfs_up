@@ -9,11 +9,9 @@ This analysis reviews the weather patterns around Oahu, Hawaii to determine if a
 ## Results
 Two classes, "measurement" and "station," from the SQLite database provide all the information required to conduct the analysis. Temperature and precipitaction information gathered from the measurement class and location information was assessed through the station class.
 
-The dataset reveals 9 stations gathering weather information around Oahu, and the precipitation measurements they gathered: 
+The dataset reveals 9 stations gathering weather information around Oahu and the precipitation measurements they gathered are  shown between Aug. 23, 2016 to Aug. 23, 2017.
 
 ![year_rainfall_plot](https://github.com/jp3tty/surfs_up/blob/main/Images/year_rainfall_plot.PNG)
-
-shows the precipitation on Oahu between Aug. 23, 2016 to Aug. 23, 2017.
 
 
 
