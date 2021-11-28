@@ -3,14 +3,11 @@
 
 ## Overview of Analysis
 
-This analysis reviews a set of weather conditions to determine if a surf and ice cream shop can sustain steady business year-round in Oahu, Hawaii. The data is provided by a collueage in a SQLite database and the key concerns are daily temperature and precipitation through out the year. The idea is that warm weather will be ideal for surfing and moderate level of rainfall will keep the location green and beautiful.
-
-Through applying foresight to the initial analysis, we should be able to apply this code to another location when asked.
-
-In order to It should to provide insight to persuade an investor to help open a surf and ice cream shop in Oahu, Hawaii. 
+This analysis reviews the weather conditions around Oahu, Hawaii to determine if a surf and ice cream shop can sustain steady business year-round. The monthly temperatures and precipication from the dataset, provided in a SQLite database, will help make this determination through SQLAlchemy queries, in a Jupyter notebook. Ideally, consistent warm weather and just enough rainfall to keep everything green will be the optimal condition for sustaining a surf and ice cream shop.
 
 
 ## Results
+Two classes, "measurement" and "station," from the SQLite database provide all the information required to conduct the analysis. Temperature and precipitaction info was gather from the measurement class and the locations information was assessed through the station class.
 
 
-## Summaryq
+## Summary
